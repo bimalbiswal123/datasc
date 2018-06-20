@@ -1,8 +1,8 @@
 Day3
 ==========
 learning algorithm
-.supervised
-..regression 
-..classification
-.unsupervised
-.reinforcement
+1.supervised
+.1regression 
+.2classification
+2.unsupervised
+3.reinforcement
